@@ -4,3 +4,6 @@
 - Random Forests
 - SVM
 - Neural Networks
+- NLP
+- Text Mining
+- Embeddings
